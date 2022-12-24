@@ -37,7 +37,7 @@ export default function Home() {
 
         <div className={styles.grid}>
           <a
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://compress-image-vue3.vercel.app/"
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
@@ -45,9 +45,6 @@ export default function Home() {
             <h2 className={inter.className}>
               图片压缩 <span>-&gt;</span>
             </h2>
-            <p className={inter.className}>
-              Find in-depth information about Next.js features and&nbsp;API.
-            </p>
           </a>
 
           <a
